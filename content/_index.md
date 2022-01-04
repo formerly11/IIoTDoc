@@ -6,3 +6,5 @@ weight = 1
 
 
 This is a index page.
+
+![](./forest-1.jpg)
