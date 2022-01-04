@@ -5,6 +5,6 @@ weight = 1
 +++
 
 
-This is a index page.
+This is a index page. Hello!
 
 ![](./forest-1.jpg)
