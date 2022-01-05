@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://bluesphere.cloud:8181/iiot/</loc>
   </url><url>
-    <loc>http://example.org/level-one/</loc>
+    <loc>http://bluesphere.cloud:8181/iiot/level-one/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://example.org/level-one/page1/</loc>
+    <loc>http://bluesphere.cloud:8181/iiot/level-one/page1/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://example.org/level-one/page2/</loc>
+    <loc>http://bluesphere.cloud:8181/iiot/level-one/page2/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://example.org/level-two/</loc>
+    <loc>http://bluesphere.cloud:8181/iiot/level-two/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://example.org/level-two/page1/</loc>
+    <loc>http://bluesphere.cloud:8181/iiot/level-two/page1/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://example.org/level-two/page2/</loc>
+    <loc>http://bluesphere.cloud:8181/iiot/level-two/page2/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://bluesphere.cloud:8181/iiot/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://bluesphere.cloud:8181/iiot/tags/</loc>
   </url>
 </urlset>
