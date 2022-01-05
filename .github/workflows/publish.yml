@@ -31,5 +31,6 @@ jobs:
           script: |
             cd ~/IIoTDoc
             git pull --rebase
+            hugo
 
           
