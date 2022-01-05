@@ -25,7 +25,7 @@ Dolor sit, sumo unique argument um no. Gracie nominal id xiv. Romanesque acclima
 
 {{< /columns >}}
 
-This is a index page. Hello everyBody!
+This is a index page. Hello EveryBody!
 
 ![](./forest-1.jpg)
 
